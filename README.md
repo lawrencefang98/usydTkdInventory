@@ -15,6 +15,7 @@
 * Items
   * itemID
   * stockAvailable
+  * category
 
 # Functions available
 - [ ] Adding a customer
