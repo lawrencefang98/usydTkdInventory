@@ -20,6 +20,7 @@
 - [ ] Adding a customer
 - [ ] Adding stock
 - [ ] Available stock
+- [ ] Add anorder
 - [ ] Viewing an order
 - [ ] Deleting an order
 - [ ] Completing an order
